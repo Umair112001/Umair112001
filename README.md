@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **web projects.**
 
-- 🌱 I’m currently learning **python,AI,ML,CCB,Data Migration.**
+- 🌱 I’m currently learning **python,AI,ML,CCB,Data Migration,DOC1**
 
 - 👨‍💻 All of my projects are available at [https://umairali.netlify.app/](https://umairali.netlify.app/)
 
