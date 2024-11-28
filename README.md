@@ -23,14 +23,17 @@
   <a href="https://twitter.com/umair52378" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umair52378" height="30" width="40" />
   </a>
+  
   <a href="https://linkedin.com/in/umair-ali-b29246172" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umair-ali-b29246172" height="30" width="40" />
   </a>
   <a href="https://fb.com/umair.ali52378" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umair.ali52378" height="30" width="40" />
   </a>
-</p>
 
+
+<a href="https://instagram.com/u.mairali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="u.mairali1" height="30" width="40" /></a>
+</p>
 ---
 
 ### 🚀 Technologies & Tools
@@ -58,7 +61,7 @@ I’m always open to discussing **new projects, ideas**, or **collaborations**. 
 
 <h3 align="center">Thank you for visiting my profile!</h3>
 
-<a href="https://instagram.com/u.mairali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="u.mairali1" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
