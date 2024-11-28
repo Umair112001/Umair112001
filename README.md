@@ -1,23 +1,63 @@
-<h1 align="center">Hi 👋, I'm Umair Ali</h1>
-<h3 align="center">A passionate full stack web developer from Pakistan</h3>
+<h1 align="center">Hello, I'm Umair Ali 👋</h1>
+<h3 align="center">A Passionate Full Stack Web Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umair112001&label=Profile%20views&color=0e75b6&style=flat" alt="umair112001" /> </p>
-
-- 🔭 I’m currently working on **web projects.**
-
-- 🌱 I’m currently learning **python,AI,ML,CCB,Data Migration,DOC1**
-
-- 👨‍💻 All of my projects are available at [https://umairali.netlify.app/](https://umairali.netlify.app/)
-
-- 💬 Ask me about **WEB Development,Computer Vision, App Design.**
-
-- 📫 How to reach me **softwareengineer.hu@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/umair52378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umair52378" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/umair-ali-b29246172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umair-ali-b29246172" height="30" width="40" /></a>
-<a href="https://fb.com/umair.ali52378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umair.ali52378" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=umair112001&label=Profile%20views&color=0e75b6&style=flat" alt="umair112001" />
+</p>
+
+---
+
+### 🌟 About Me
+
+- 🔭 I’m currently working on various **web development projects**.
+- 🌱 I’m expanding my skills in **Python, AI, Machine Learning, CCB, Data Migration,** and **DOC1**.
+- 👨‍💻 Check out my projects at my [portfolio](https://umairali.netlify.app/).
+- 💬 Feel free to ask me about **Web Development, Computer Vision,** and **App Design**.
+- 📫 You can reach me at **softwareengineer.hu@gmail.com**.
+
+---
+
+### 📬 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/umair52378" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umair52378" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/umair-ali-b29246172" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umair-ali-b29246172" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/umair.ali52378" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umair.ali52378" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🚀 Technologies & Tools
+
+- **Languages:** JavaScript, C#, PHP, Python
+- **Frameworks:** Blazor, React, Django
+- **Databases:** SQL Server, MySQL, Oracle
+- **Tools:** Git, Docker, Visual Studio, Visual Studio Code
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umair112001&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Umair's GitHub Stats" />
+</p>
+
+---
+
+### 🤝 Let's Collaborate!
+
+I’m always open to discussing **new projects, ideas**, or **collaborations**. Let's connect and create something amazing together!
+
+---
+
+<h3 align="center">Thank you for visiting my profile!</h3>
+
 <a href="https://instagram.com/u.mairali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="u.mairali1" height="30" width="40" /></a>
 </p>
 
