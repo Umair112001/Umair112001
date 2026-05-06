@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+.NET+%26+Blazor;DOC1+Consultant+%7C+EngageOne+Expert;Oracle+CC%26B+%26+Data+Migration;SFCC+Developer+%7C+Computer+Vision;Building+Scalable%2C+Clean+Web+Applications+🚀)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=umairali&label=Profile+Views&color=0891b2&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Umair112001&label=Profile+Views&color=0891b2&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-<a href="https://github.com/umairali?tab=followers">
-  <img src="https://img.shields.io/github/followers/umairali?label=Followers&style=for-the-badge&color=0891b2" alt="Followers"/>
+<a href="https://github.com/Umair112001?tab=followers">
+  <img src="https://img.shields.io/github/followers/Umair112001?label=Followers&style=for-the-badge&color=0891b2" alt="Followers"/>
 </a>
 
 </div>
@@ -167,17 +167,17 @@ const umair = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umairali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Umair112001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairali&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair112001&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umair112001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairali&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umair112001&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
