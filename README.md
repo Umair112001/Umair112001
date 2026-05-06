@@ -167,17 +167,17 @@ const umair = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umair112001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Umair112001&theme=tokyonight" width="95%" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Umair112001&theme=tokyonight" height="180" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair112001&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Umair112001&theme=tokyonight" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umair112001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umair112001&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
+  <img src="https://streak-stats.demolab.com/?user=Umair112001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
