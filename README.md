@@ -1,54 +1,207 @@
-![Profile Views](https://komarev.com/ghpvc/?username=umair112001&label=Profile%20views&color=0e75b6&style=flat)
-# 👋 Hi, I'm Umair Ali  
-### 🚀 Full Stack Web Developer | AI & ML Engineer | Pakistan 🇵🇰  
----
+<div align="center">
 
-## 🌟 About Me  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Umair%20Ali&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Oracle%20Certified%20%7C%20DOC1%20Consultant&descAlignY=55&descSize=17" width="100%"/>
 
-- 🔭 Building **scalable full-stack web & AI applications**  
-- 🌱 Learning **AI, Machine Learning, Python, CCB, Data Migration & DOC1**  
-- 👨‍💻 Portfolio: https://umairali.netlify.app  
-- 💬 Ask me about **Web Dev, AI, Computer Vision & App Design**  
-- 📫 Email: softwareengineer.hu@gmail.com  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+.NET+%26+Blazor;DOC1+Consultant+%7C+EngageOne+Expert;Oracle+CC%26B+%26+Data+Migration;SFCC+Developer+%7C+Computer+Vision;Building+Scalable%2C+Clean+Web+Applications+🚀)](https://git.io/typing-svg)
 
----
+<img src="https://komarev.com/ghpvc/?username=umairali&label=Profile+Views&color=0891b2&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/umairali?tab=followers">
+  <img src="https://img.shields.io/github/followers/umairali?label=Followers&style=for-the-badge&color=0891b2" alt="Followers"/>
+</a>
 
-## 🌐 Connect With Me  
-[![Twitter](https://img.shields.io/badge/Twitter-000?logo=twitter)](https://twitter.com/umair52378)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://linkedin.com/in/umair-ali-b29246172)
-[![Instagram](https://img.shields.io/badge/Instagram-000?logo=instagram)](https://instagram.com/u.mairali1)
+</div>
 
 ---
 
-## 🚀 My Tech Stack  
+## 👨‍💻 About Me
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
-![C#](https://img.shields.io/badge/C%23-000?logo=csharp)
-![Python](https://img.shields.io/badge/Python-000?logo=python)
-![Blazor](https://img.shields.io/badge/Blazor-000?logo=dotnet)
-![React](https://img.shields.io/badge/React-000?logo=react)
-![Django](https://img.shields.io/badge/Django-000?logo=django)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000?logo=tensorflow)
-![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
+```javascript
+const umair = {
+  name:        "Umair Ali",
+  location:    "Mansehra, Khyber Pakhtunkhwa, Pakistan 🇵🇰",
+  role:        "Full Stack Developer | DOC1 Consultant | Oracle Certified",
+  companies:   ["UtilitiesTech", "Telinsight (UAE)", "DigitsCom Technologies"],
+  education:   "BSc Software Engineering — Hazara University (2018–2022)",
+  portfolio:   "umairali.netlify.app",
+  specialties: [
+    "Full-Stack Web Dev (.NET Core, Blazor, MVC, Razor Pages)",
+    "Document Automation (DOC1 / EngageOne Suite)",
+    "Oracle CC&B & Data Migration",
+    "SFCC Developer | Data Analyst | Computer Vision",
+    "Scalable Systems & Clean Architecture"
+  ],
+  certifications: [
+    "Oracle Data Platform 2025 Certified Foundations Associate",
+    "Data Science & AI Career Bootcamp",
+    "Python for Machine Learning",
+    "PHP",
+    "Web Development"
+  ],
+  contact:  "aliu34753@gmail.com",
+  openTo:   "New projects, collaborations & impactful digital solutions 🤝"
+};
+```
 
 ---
 
-## 📊 GitHub Stats  
+## 💼 Work Experience
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umair112001&theme=radical)  ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umair112001&theme=radical)  
+### 🏢 UtilitiesTech &nbsp;·&nbsp; *3 yrs 2 mos*
 
+**DOC1 Consultant & Full Stack Developer** &nbsp;`October 2023 – Present`
+> Leading end-to-end full-stack and document automation solutions, integrating Oracle CC&B and scalable communication workflows.
+
+- 🔹 Leading a team of developers to deliver scalable and efficient full-stack solutions
+- 🔹 Driving code quality improvements through review, refinement, and structured code merging practices
+- 🔹 Collaborating closely with clients to gather requirements and translate them into technical solutions
+- 🔹 Designing and implementing both front-end and back-end features with seamless integration
+- 🔹 Managing version control workflows (Git) for smooth collaboration and conflict-free deployments
+- 🔹 Contributing to architectural decisions and ensuring adherence to best practices
+
+**IT Product Consultant — Data Migration and Oracle Trainee** &nbsp;`April 2023 – October 2023`
+> Handled Oracle Customer Care & Billing (CC&B) configurations and managed complex data migration pipelines.
 
 ---
 
-## 🌍 Contribution Heatmap  
+### 🏢 Telinsight &nbsp;·&nbsp; United Arab Emirates &nbsp;·&nbsp; *5+ years*
 
-![Heatmap](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umair112001&theme=radical)
+**DOC1 Developer** &nbsp;`January 2021 – Present`
+> Leveraging the **EngageOne platform** to provide coding and implementation support for print stream technologies across:
+> - EngageOne Designer, Compose, Server & Vault
+> - EngageOne Deliver (email & digital communications)
+> - EngageOne Interactive, Web APIs & Web Services
+> - End-to-end: server setup, Vault migration & production support
 
 ---
 
-## 🤝 Let's Collaborate  
+### 🏢 DigitsCom Technologies &nbsp;·&nbsp; Mansehra, KPK
 
-Open for **remote jobs, freelancing, startups & AI projects** 🚀  
-Let’s build something legendary.
+**Frontend Developer** &nbsp;`April 2021 – April 2022`
+> Developed and delivered front-end solutions in a professional product environment over one year.
 
-⭐ _Star my repositories if you like my work!_
+---
+
+## 🛠️ Tech Stack
+
+### 💬 Languages
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+
+### 🚀 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+### 📄 Document Automation & Enterprise
+<p>
+  <img src="https://img.shields.io/badge/DOC1%20%2F%20EngageOne-0055A5?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_CC%26B-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Migration-FF6F00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SFCC-00A1E0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RBAC-6A0DAD?style=for-the-badge&logoColor=white"/>
+</p>
+
+### 🤖 AI / Data Science / Computer Vision
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python_ML-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+## 🏅 Certifications
+
+| 🏆 Certificate | Issuer |
+|---|---|
+| 🟠 Oracle Data Platform 2025 Certified Foundations Associate | Oracle |
+| 🤖 Data Science & AI Career Bootcamp | — |
+| 🐍 Python for Machine Learning | — |
+| 🌐 Web Development | — |
+| 🐘 PHP | — |
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year |
+|---|---|---|
+| 🎓 BSc Software Engineering | Hazara University | 2018 – 2022 |
+| 📘 ICS — Computer Science | GCMS Mansehra | 2016 – 2018 |
+| 📗 SSC (Science) | Evergreen Public School | 2014 – 2016 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umairali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairali&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairali&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engr-umair-ali)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://umairali.netlify.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliu34753@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Skilled Full Stack Developer specializing in .NET Core, Blazor, DOC1 & Oracle — building scalable, clean, and impactful digital solutions."*
+
+**Let's connect and build something amazing together! 🚀**
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
